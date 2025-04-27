@@ -1,6 +1,7 @@
 
 # AI Quiz Generator - Fullstack Project
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen) 
+
 [![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel)](https://khushijain18.vercel.app/)
 
 
